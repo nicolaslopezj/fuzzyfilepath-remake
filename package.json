@@ -12,7 +12,7 @@
   "dependencies": {
     "babel-plugin-module-resolver": "^2.7.1",
     "fs-plus": "^3.0.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "path": "^0.12.7",
     "space-pen": "^5.1.2"
   },
